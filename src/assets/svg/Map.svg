@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90.38 62.54">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-dasharray: 0 0 15 7;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #613DC1;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 0 12;
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <polygon id="map_outline" data-name="map outline" class="cls-3" points="88.88 51.5 67.04 61.04 45.19 51.5 23.35 61.04 1.5 51.5 1.5 1.5 23.35 10.99 45.19 1.5 67.04 10.99 88.88 1.5 88.88 51.5"/>
+  <path id="trail" class="cls-1" d="M13.15,18.61c3.29,2.7,8.54,6.17,15.44,7.13,9.82,1.36,14.17-3.59,27.78-3.86,7.42-.15,15.16-.31,18.49,4.75,3.48,5.27,1.25,14.81-3.96,17.7-5.21,2.89-10.46-2.5-21.96-4.35-9.42-1.52-17.48,.23-22.53,1.79"/>
+  <g id="x">
+    <line class="cls-2" x1="16.65" y1="45.58" x2="23.65" y2="38.58"/>
+    <line class="cls-2" x1="16.65" y1="38.58" x2="23.65" y2="45.58"/>
+  </g>
+</svg>
