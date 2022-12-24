@@ -7,7 +7,7 @@
 <template>
   <div>
     <navbar></navbar>    
-    <puzz_board></puzz_board>
+    <puzz_board pieces="30"></puzz_board>
   </div>
   <!-- <HelloWorld msg="Vite + Vue" /> -->
 </template>
